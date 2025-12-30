@@ -1,0 +1,7 @@
+<description><![CDATA[
+{% for file in site.static_files %}
+  {% if file.path contains '/images/' %}
+<img src="{{ site.url }}{{ file.path }}" alt="{{ file.name | xml_escape }}" />
+  {% endif %}
+{% endfor %}
+]]></description>
