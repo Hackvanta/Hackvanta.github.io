@@ -1,14 +1,7 @@
-# required for correct absolute links (update to your site URL)
-url: "https://hackvanta.github.io"     # <- change if you use a custom domain
-baseurl: ""                            # or "/your-base" if used
-
-title: "Your Site Title"
-description: "Short description for feed and metadata"
+title: Hackvanta
+url: "https://hackvanta.github.io"
+baseurl: ""
 
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-
-# Optional jekyll-feed config (default path is /feed.xml)
-feed:
-  path: feed.xml
+  

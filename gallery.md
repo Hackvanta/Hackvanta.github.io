@@ -1,10 +1,9 @@
 ---
-title: "Image Feed"
-date: 2025-01-01
+title: Gallery
 ---
 
 {% for file in site.static_files %}
   {% if file.path contains '/images/' %}
-![{{ file.name }}]({{ site.url }}{{ file.path }})
+![{{ file.name }}]({{ file.path }})
   {% endif %}
 {% endfor %}
