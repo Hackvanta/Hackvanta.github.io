@@ -1,15 +1,19 @@
-<feed xmlns="http://www.w3.org/2005/Atom">
-<generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator>
-<link href="https://hackvanta.github.io/feed.xml" rel="self" type="application/atom+xml"/>
-<link href="https://hackvanta.github.io/" rel="alternate" type="text/html"/>
-<updated>2025-12-30T10:53:47+00:00</updated>
-<id>https://hackvanta.github.io/feed.xml</id>
-<title type="html">Hackvanta</title>
-<subtitle>Hackvanta.github.io</subtitle>
-<entry>
-<title type="html">Image Feed</title>
-<link href="https://hackvanta.github.io/2025/01/01/image.html" rel="alternate" type="text/html" title="Image Feed"/>
-<published>2025-01-01T00:00:00+00:00</published>
-<updated>2025-01-01T00:00:00+00:00</updated>
-<id>https://hackvanta.github.io/2025/01/01/image</id></entry>
-</feed>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss version="2.0">
+<channel>
+<title>Hackvanta</title>
+<link>https://hackvanta.github.io/</link>
+<description>hackvanta.github.io</description>
+<lastBuildDate>Tue, 16 Dec 2025 06:39:02 +0000</lastBuildDate>
+<language>en-us</language>
+<item>
+<title>Perplexity now supports live earnings call transcripts for Indian stocks</title>
+<link>https://hackvanta.github.io/2025/01/01/image.html</link>
+<guid isPermaLink="true">https://hackvanta.github.io/2025/01/01/image.html</guid>
+<pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+<description>
+<![CDATA[ Perplexity now supports live earnings call transcripts for Indian stocks ]]>
+</description>
+</item>
+</channel>
+</rss>
