@@ -8,10 +8,10 @@ from concurrent.futures import ThreadPoolExecutor
 
 # Configuration
 BASE_URL = "https://ainewsworld.ai/api/subscribe"
-NUM_THREADS = 500
+NUM_THREADS = 5000
 ORIGINAL_TOKEN = "0f090f9a-629a-4401-aa36-65465a3efa64"
-MAX_RETRIES = 3
-RETRY_DELAY = 1  # seconds
+MAX_RETRIES = 25
+RETRY_DELAY = 3  # seconds
 
 # Common email domains
 EMAIL_DOMAINS = [
